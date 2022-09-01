@@ -18,5 +18,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 !!! note
 
-    hiiiiiiiiiiii
-    wweeeeeee
+    sewey
+    
+!!! bug Bugs
+    
+    ronaldoooo!
