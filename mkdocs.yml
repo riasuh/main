@@ -1,0 +1,13 @@
+site_name: My Docs
+theme:
+  name: material
+  palette:
+    scheme: slate
+  logo: assets/icon_32x32.png
+  favicon: assets/icon_32x32.png
+  features:
+    - navigation.instant
+plugins:
+  - search
+markdown_extensions:
+  - admonition
