@@ -5,7 +5,7 @@ hide:
 
 # Overview
 !!! tip "Welcome to riadocs Documentation Page!"
-    Please select one of the following [Topics](./index.md/#topics) to start.
+    Please select one of the following [Topics](./index#topics) to start.
 
 ## Topics
 
