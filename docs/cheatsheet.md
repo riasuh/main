@@ -6,7 +6,7 @@ hide:
 ## Topics
 
 * [Beat Saber Austria Documentations](./bsat_docs)
-* [Riasuh's Maps](./ria_maps)
+* []()
 * [Riasuh's Projects](./ria_projects)
   
 [Subscribe to our newsletter](#){ .md-button .md-button--primary }
