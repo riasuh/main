@@ -34,20 +34,25 @@ extra:
       make our documentation better.
 
   social:
+    - icon: fontawesome/brands/discord 
+      link: https://discord.com/invite/6PRt4Ph
+      name: My Discord Server
+
     - icon: fontawesome/brands/twitter 
-
-
       link: https://twitter.com/riasuh_
+      name: My Twitter
 
-    - icon: fontawesome/brands/twitter 
-
-
+    - icon: fontawesome/brands/github 
       link: https://github.com/riasuh
+      name: My Github
 
     - icon: fontawesome/brands/youtube
-
-
       link: https://youtube.com/c/riasuh
-      
+      name: My Youtube
+
+    - icon: fontawesome/brands/twitch 
+      link: https://www.twitch.tv/riasuh
+      name: My Github
+
 copyright: Copyright &copy; 2022 riasuh
     
