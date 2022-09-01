@@ -44,6 +44,7 @@ hide:
 * [BeatSaver](https://beatsaver.com/)
 * [ScoreSaber Website Browser Plugin](https://github.com/Splamy/ScoreSaberEnhanced)
 * [Various Mapping Tools & More](https://muffnlabs.de/tools)
+* [BSMG Wiki](https://bsmg.wiki/)
 
 ## Our Team
 
