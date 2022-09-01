@@ -25,7 +25,7 @@ hide:
 * :material-bug-check: [Common issue fixes](./bsat_docs)
 * :octicons-light-bulb-16: [Oculus Tracking/Troubleshooting Tips & more](https://docs.google.com/document/d/1FwG_Zv5FcB2UpjTxmH1y5-cQ85W2ezwr4z_D6_Z_QPY/edit)
 * :material-tools: [Oculus Tray Tool (Tweak performance/graphics for rift)](https://forums.oculusvr.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully/p1)
-* [All about Scoresaber Quest Modding](https://bsmg.wiki/quest-modding.html)
+* :octicons-light-bulb-16: [All about Scoresaber Quest Modding](https://bsmg.wiki/quest-modding.html)
   
 ### Leaderboard Pages
 * [ScoreSaber](https://scoresaber.com/)
