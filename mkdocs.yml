@@ -9,6 +9,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
+    - navigation.sections
 plugins:
   - search
 markdown_extensions:
