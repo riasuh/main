@@ -3,7 +3,9 @@ hide:
   - footer
 ---
 
-# Beat Saber Austria Documentations
+# Beat Saber Austria Documentations  
+
+[:fontawesome-brands-discord: Join the BSAT Discord Server!](https://discord.gg/TvRkNY2){ .md-button .md-button--primary }  
 
 ## Our Socials
 * :fontawesome-brands-twitch: [Official Twitch Channel](https://www.twitch.tv/beatsaberaustria)
