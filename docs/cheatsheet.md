@@ -1,5 +1,10 @@
-Welcome to my Documentation Page!
-Please select one of the following [Topics](./index.md/#topics) to start.
+---
+hide:
+  - footer
+---
+
+# Document title
+...
 
 ## Topics
 
