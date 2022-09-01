@@ -21,10 +21,10 @@ hide:
 
 ---
 
-![Balls](balls.gif)
+![Balls](assets/balls.gif)
 
 <figure markdown>
-  ![Balls](balls.gif){ width="300" }
+  ![Balls](assets/balls.gif){ width="300" }
   <figcaption>Image caption</figcaption>
 </figure>
 
