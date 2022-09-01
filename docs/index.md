@@ -9,15 +9,15 @@ hide:
 
 ## Topics
 
-[Beat Saber Austria Documentations](./bsat_docs)
+:books: [Beat Saber Austria Documentations](./bsat_docs)
 
 ---
 
-[Riasuh's Maps](./ria_maps)
+:map: [Riasuh's Maps](./ria_maps)
 
 ---
 
-[Riasuh's Projects](./ria_projects)
+:person_juggling_tone1: [Riasuh's Projects](./ria_projects)
 
 ---
 
