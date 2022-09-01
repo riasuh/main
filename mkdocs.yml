@@ -8,6 +8,7 @@ theme:
   favicon: assets/icon_32x32.png
   features:
     - navigation.instant
+    - navigation.tabs
 plugins:
   - search
 markdown_extensions:
