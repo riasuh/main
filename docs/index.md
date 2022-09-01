@@ -14,12 +14,7 @@ hide:
 * [Riasuh's Projects](./ria_projects)
   
 [Join Our Discord Server!](https://discord.gg/TvRkNY2){ .md-button .md-button--primary }
+
 ## Other
 
-    
-!!! Note
-    
-    ronaldoooo!
-
-
-:fontawesome-brands-discord: [Thingy](https://www.mkdocs.org)
+[Thingy](https://www.mkdocs.org)
