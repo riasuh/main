@@ -32,3 +32,22 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
+
+  social:
+    - icon: fontawesome/brands/twitter 
+
+
+      link: https://twitter.com/riasuh_
+
+    - icon: fontawesome/brands/twitter 
+
+
+      link: https://github.com/riasuh
+
+    - icon: fontawesome/brands/youtube
+
+
+      link: https://youtube.com/c/riasuh
+      
+copyright: Copyright &copy; 2022 riasuh
+    
