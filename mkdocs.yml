@@ -3,6 +3,7 @@ theme:
   name: material
   palette:
     scheme: slate
+    primary: teal
   logo: assets/icon_32x32.png
   favicon: assets/icon_32x32.png
   features:
