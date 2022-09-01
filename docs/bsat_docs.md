@@ -3,9 +3,6 @@ hide:
   - footer
 ---
 
-# Document title
-...
-
 # Beat Saber Austria Documentations
 
 ## Our Socials

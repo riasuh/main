@@ -3,9 +3,6 @@ hide:
   - footer
 ---
 
-# Document title
-...
-
 # Riasuh's Projects
 
 

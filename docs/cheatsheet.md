@@ -3,9 +3,6 @@ hide:
   - footer
 ---
 
-# Document title
-...
-
 ## Topics
 
 * [Beat Saber Austria Documentations](./bsat_docs)

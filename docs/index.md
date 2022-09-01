@@ -3,9 +3,6 @@ hide:
   - footer
 ---
 
-# Document title
-...
-
 # Overview
 !!! tip "Welcome to riadocs Documentation Page!"
     Please select one of the following [Topics](./index.md/#topics) to start.
