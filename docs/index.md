@@ -9,40 +9,15 @@ hide:
 
 ## Topics
 
-* [Beat Saber Austria Documentations](./bsat_docs)
-* [Riasuh's Maps](./ria_maps)
-* [Riasuh's Projects](./ria_projects)
+[Beat Saber Austria Documentations](./bsat_docs)
 
----  
+---
 
-<div class='features'>
+[Riasuh's Maps](./ria_maps)
 
-::: feature Getting Started
+---
 
-* [Rules](./rules.md)
-* [Beginners Guide](./beginners-guide.md)
-* [The Ranking System](./ranking-system.md)
-* [Frequently Asked Questions](./faq.md)
-
-:::
-
-::: feature Ranking Resources
-
-* [How to Rank my Map](./ranking/how-to-rank-map.md)
-* [Ranking Criteria](./ranking/criteria)
-* [Ranking Queue Rules](./ranking/ranking-queue-rules.md)
-* [QAT Guidelines](./ranking/qat-guidelines.md)
-* [Modding Queue Information](./ranking/modding-queue-information.md)
-* [ScoreSaber Team Information](./ranking/scoresaber-team-information.md)
-* [Ranking Unban System and Terms](./ranking/ranking-unban-system-and-terms.md)
-:::
-
-::: feature Other Resources
-
-* [About Us](./about-us.md)
-:::
-
-</div>
+[Riasuh's Projects](./ria_projects)
 
 ---
 
