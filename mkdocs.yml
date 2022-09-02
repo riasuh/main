@@ -16,6 +16,10 @@ theme:
     - navigation.top
 plugins:
   - search
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: timeago
+
 markdown_extensions:
   - admonition
   - attr_list
