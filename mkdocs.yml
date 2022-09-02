@@ -6,6 +6,7 @@ theme:
   palette:
     scheme: slate
     primary: teal
+  custom_dir: overrides
   logo: assets/logo_2.png
   favicon: assets/icon_32x32.png
   features:
