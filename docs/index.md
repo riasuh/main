@@ -30,7 +30,7 @@ hide:
 
 --- 
 
-??? tip "Want to help improve this Page?"
+!!! tip "Want to help improve this Page?"
 
     https://github.com/riasuh/docs2/edit/main/docs
 
