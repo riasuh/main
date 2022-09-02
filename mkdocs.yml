@@ -1,5 +1,5 @@
 site_name: riadocs
-description: various Beat Saber related Documentations.
+site_description: Various Documentations for Beat Saber.
 theme:
   name: material
   palette:
