@@ -4,6 +4,9 @@ hide:
 ---
 
 # Beat Saber Austria Documentations  
+!!! warning "This Page is still a Work in Progress"
+    *some sections are not fully done*
+
 
 [:fontawesome-brands-discord: Join the BSAT Discord Server!](https://discord.gg/TvRkNY2){ .md-button .md-button--primary }  
 
