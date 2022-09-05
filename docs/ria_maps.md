@@ -9,16 +9,19 @@ hide:
 ---
 
 !!! example "Beanos Theme Song"
-    epic jammer Spongebob Beat, wish it was a longer song tho :(
-    [View here](https://beatsaver.com/maps/26844)
-    | Method      | Description                          |
-    | ----------- | ------------------------------------ |
-    | `GET`       | :material-check:     Fetch resource  |
-    | `PUT`       | :material-check-all: Update resource |
-    | `DELETE`    | :material-close:     Delete resource |
-
+    epic jammer Spongebob Beat, wish it was a longer song tho :(  
+    [View here](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
 
 ---
+
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+---
+
 
 ## Other
 
