@@ -8,9 +8,17 @@ hide:
 
 ---
 
-## Topics
+!!! example "Beanos Theme Song"
+    epic jammer Spongebob Beat, wish it was a longer song tho :(
+    [View here](https://beatsaver.com/maps/26844)
+    | Method      | Description                          |
+    | ----------- | ------------------------------------ |
+    | `GET`       | :material-check:     Fetch resource  |
+    | `PUT`       | :material-check-all: Update resource |
+    | `DELETE`    | :material-close:     Delete resource |
 
-Hi
+
+---
 
 ## Other
 
