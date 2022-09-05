@@ -10,7 +10,80 @@ hide:
 
 !!! example "Beanos Theme Song"
     epic jammer Spongebob Beat, wish it was a longer song tho :(  
-    [View here](https://beatsaver.com/maps/26844)  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
+
+---
+
+!!! example "THE ORAL CIGARETTES - MIRROR [with Chroma]"
+    Absolute jammer song, cannot resist!
+    Epic Downmaps (Ex, H) done by @raccoonvr
+    Epic Chroma Lightshow done by @artjoms
+    Thanks so much for your work!  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
+
+---
+
+!!! example "Beanos Theme Song"
+    epic jammer Spongebob Beat, wish it was a longer song tho :(  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
+
+---
+
+!!! example "Beanos Theme Song"
+    epic jammer Spongebob Beat, wish it was a longer song tho :(  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
+
+---
+
+!!! example "Beanos Theme Song"
+    epic jammer Spongebob Beat, wish it was a longer song tho :(  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
+
+---
+
+!!! example "Beanos Theme Song"
+    epic jammer Spongebob Beat, wish it was a longer song tho :(  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
+
+---
+
+!!! example "Beanos Theme Song"
+    epic jammer Spongebob Beat, wish it was a longer song tho :(  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
+
+---
+
+!!! example "Beanos Theme Song"
+    epic jammer Spongebob Beat, wish it was a longer song tho :(  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
+
+---
+
+!!! example "Beanos Theme Song"
+    epic jammer Spongebob Beat, wish it was a longer song tho :(  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
+
+---
+
+!!! example "Beanos Theme Song"
+    epic jammer Spongebob Beat, wish it was a longer song tho :(  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
+    ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
+
+---
+
+!!! example "Beanos Theme Song"
+    epic jammer Spongebob Beat, wish it was a longer song tho :(  
+    [View on BeatSaver (Map DL)](https://beatsaver.com/maps/26844)  
     ![Beanos](https://eu.cdn.beatsaver.com/91a0e2bca06b82b2238d5a33f82ecd158cb025eb.jpg)
 
 ---
