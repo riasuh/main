@@ -6,7 +6,7 @@ hide:
 # Riasuh's Maps
 !!! warning "This Page is still a Work in Progress"
     *some sections are not fully done*
-[You can find & download my Maps here](https://beatsaver.com/profile/4284474)  
+[You can find my BeatSaver Profile here](https://beatsaver.com/profile/4284474)  
 ## [WIP :material-progress-clock:] secret collab project (coming soon)
 !!! example "ssshhh"
     hint: this map will be over 10 minutes long!   
