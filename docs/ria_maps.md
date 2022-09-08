@@ -17,7 +17,7 @@ hide:
     The second megacollab is finally here!!!!! going for rank!  
     showcase video TBD  
     Chroma Lights done by @septuno !   
-    [All thanks to these wonderful people here who worked on this, give them some love:](./ria_projects,md#the-osumemories-2-megacollab)  
+    [All thanks to these wonderful people here who worked on this collab, give them some love:](./ria_projects.md#the-osumemories-2-megacollab)  
     ![osu!mems2](https://eu.cdn.beatsaver.com/4fbad53f049e0bea3266c71088929387aef598e0.jpg)  
     [View on BeatSaver (+Map DL)](https://beatsaver.com/maps/262cb)  
 
