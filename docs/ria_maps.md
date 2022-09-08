@@ -17,7 +17,7 @@ hide:
     The second megacollab is finally here!!!!! going for rank!  
     showcase video TBD  
     Chroma Lights done by @septuno !   
-    [All thanks to these wonderful people here who worked on this, give them some love:](./ria_projects.md)  
+    [All thanks to these wonderful people here who worked on this, give them some love:](./ria_projects#the-osumemories-2-megacollab)  
     ![osu!mems2](https://eu.cdn.beatsaver.com/4fbad53f049e0bea3266c71088929387aef598e0.jpg)  
     [View on BeatSaver (+Map DL)](https://beatsaver.com/maps/262cb)  
 
@@ -71,7 +71,7 @@ hide:
 !!! abstract "SakiZ - osu!memories [with Chroma]"  
     [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack) 
     Custom Chroma Lights done by Trolav! Lawless diff was made by me :)  
-    [All thanks to these wonderful people here who worked on this, give them some love:](./ria_projects.md)  
+    [All thanks to these wonderful people here who worked on this, give them some love:](./ria_projects#the-osumemories-megacollab)  
     ![osu!mems](https://eu.cdn.beatsaver.com/8402d39d33a81fecfee7520b08cfc2c5c5f61bae.jpg)  
     [View on BeatSaver (Map DL)](https://beatsaver.com/maps/1f1ff)  
 
