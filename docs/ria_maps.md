@@ -69,9 +69,9 @@ hide:
 ---
 ## SakiZ - osu!memories
 !!! abstract "SakiZ - osu!memories [with Chroma]"  
-    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack) 
+    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack)  
     Custom Chroma Lights done by Trolav! Lawless diff was made by me :)  
-    [All thanks to these wonderful people here who worked on this, give them some love:](./ria_projects#the-osumemories-megacollab)  
+    [All thanks to these wonderful people here who worked on this, give them some love:](./ria_projects#the-osumemories-megacollab)   
     ![osu!mems](https://eu.cdn.beatsaver.com/8402d39d33a81fecfee7520b08cfc2c5c5f61bae.jpg)  
     [View on BeatSaver (Map DL)](https://beatsaver.com/maps/1f1ff)  
 
@@ -89,7 +89,7 @@ hide:
 !!! abstract "Sono Chi no Kioku~end of THE WORLD~ (JoJo's Bizarre Adventures)"
     one of the jojo opening theme songs!  
     chill 4 nps map with some bombs :)  
-    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack) 
+    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack)   
     ![jojo](https://eu.cdn.beatsaver.com/4fe719d444fdf369afa042de159cbff52a1d1a66.jpg)  
     [View on BeatSaver (Map DL)](https://beatsaver.com/maps/1f13b)  
 
@@ -97,7 +97,7 @@ hide:
 ## Highscore - Panda Eyes & Teminite
 !!! abstract "Highscore - Panda Eyes & Teminite"
     thank you for the mod yabje and all the playtesters!  
-    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack) 
+    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack)   
     ![highscore](https://eu.cdn.beatsaver.com/44fba59bea190e95ef3595827ad17ba8b5f18873.jpg)  
     [View on BeatSaver (Map DL)](https://beatsaver.com/maps/1ee22)  
 
@@ -106,7 +106,7 @@ hide:
 !!! abstract "Cirno's Perfect Math Class - IOSYS"  
     baka, baka   
     Attention: this is a somewhat fast map!  
-    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack)   
+    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack)    
     ![cirnos](https://eu.cdn.beatsaver.com/5ecf823bddfcf3771a7f46f299475309dea74995.jpg)  
     [View on BeatSaver (Map DL)](https://beatsaver.com/maps/1ee23)
 
@@ -142,7 +142,7 @@ hide:
 ---
 ## yuikonnu & ayaponzu* - Super Nuko World
 !!! abstract "yuikonnu & ayaponzu* - Super Nuko World"
-    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack)
+    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack)   
     thx alice & simply and more for mod!  
     ![nuko](https://eu.cdn.beatsaver.com/d9dff45703fd03e8f4de358cfe3eaa069d57ab5b.jpg)  
     [View on BeatSaver (Map DL)](https://beatsaver.com/maps/1a53d)  
@@ -150,7 +150,7 @@ hide:
 ---
 ## Saiya - Remote Control
 !!! abstract "Saiya - Remote Control"
-    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack)
+    [Part of the osu!memories Megacollab Song Pack](./ria_projects.md#the-osumemories-megacollab-song-pack)  
     thank you for the curation Allie!  
     ![remote](https://eu.cdn.beatsaver.com/21759af324ddfab89f37ab348d1925c92592f990.jpg)  
     [View on BeatSaver (Map DL)](https://beatsaver.com/maps/18847)  
