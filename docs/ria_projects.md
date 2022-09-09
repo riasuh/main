@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# Riasuh's Projects
+# My Projects
 !!! warning "This Page is still a Work in Progress"
     *some sections are not fully done*
 ---

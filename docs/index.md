@@ -3,29 +3,38 @@ hide:
   - footer
 ---
 
-# Overview
-!!! warning "This Page is still a Work in Progress"
-    *some sections are not fully done*
+# Home
 
 
-!!! tip "Welcome to riadocs Documentation Page!"
-    Please select one of the following [Topics](./index#topics) to start.
-
-## Topics
 ---
+
+**Hi, im ria! I make custom Maps and various Projects for Beat Saber.**   
+
+<a href="https://discord.com/invite/6PRt4Ph" class="one" target="sewey">riasuh#2165&nbsp; :fontawesome-brands-discord:</a>
+<a href="https://twitter.com/riasuh_" class="two" target="sewey">@riasuh_&nbsp; :fontawesome-brands-twitter:</a>
+<a href="https://github.com/riasuh" class="three" target="sewey">riasuh&nbsp; :fontawesome-brands-github:</a>
+<a href="https://www.twitch.tv/riasuh" class="four" target="sewey">riasuh&nbsp; :fontawesome-brands-twitch:</a>
+
+
+<a href="https://beatsaver.com/profile/4284474" class="six" target="sewey">My Maps on BeatSaver&nbsp; :map:</a>
+!!! danger "Some Stats & current Roles"
+    [BeatSaber Player (peaked #29 global)](https://scoresaber.com/u/1984389848326752)  
+    [ScoreSaber QAT](https://scoresaber.com/team)  
+    Beat Saber Mapper of multiple ranked and *totally famous map such as Super Nuko World*  
+    Beat Saber Austria Admin   
+    Tournament Host & Coordinator  
+    (retired) Twitch Streamer  
+
+
 
 :books: [Beat Saber Austria Documentations](./bsat_docs)
-
 ---
 
-:map: [Riasuh's Maps](./ria_maps)
-
+:map: [My Maps](./ria_maps)
 ---
 
-:person_juggling_tone1: [Riasuh's Projects](./ria_projects)
-
+:person_juggling_tone1: [My Projects](./ria_projects)
 ---
-
 
 <figure markdown>
   ![Balls](assets/balls.gif){ width="300" }
@@ -40,6 +49,122 @@ hide:
 
 ---
 
-<div style="text-align:center">
-<a href='https://ko-fi.com/N4N0EP4EF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
-</div>
+<style>
+a.one:link, a.one:visited {
+text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding: 6px 50px;
+  border-radius: 8px;
+  background-color: dark grey; 
+  color: white; 
+  border: 2px solid #5865F2;
+}
+
+a.one:hover, a.one:active {
+  background-color: #282e75;
+  color: white;
+}
+a.two:link, a.two:visited {
+text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 1s;
+  cursor: pointer;
+  padding: 6px 55px;
+  border-radius: 8px;
+  background-color: dark grey; 
+  color: white; 
+  border: 2px solid #008CBA;
+}
+
+a.two:hover, a.two:active {
+  background-color: #008CBA;
+  color: white;
+}
+
+a.three:link, a.three:visited {
+text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding: 6px 55px;
+  border-radius: 8px;
+  background-color: dark grey; 
+  color: white; 
+  border: 2px solid #e7e7e7;
+}
+
+a.three:hover, a.three:active {
+  background-color: #e7e7e7;
+  color: grey;
+}
+a.four:link, a.four:visited {
+text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding: 6px 55px;
+  border-radius: 8px;
+  background-color: dark grey; 
+  color: white; 
+  border: 2px solid #9146FF;
+}
+
+a.four:hover, a.four:active {
+  background-color: #6441a5;
+  color: white;
+}
+a.five:link, a.five:visited {
+text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding: 6px 50px;
+  border-radius: 8px;
+  background-color: dark grey; 
+  color: white; 
+  border: 2px solid #f44336;
+}
+
+a.five:hover, a.five:active {
+  background-color: #f44336;
+  color: white;
+}
+a.six:link, a.six:visited {
+text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding: 6px 314px;
+  border-radius: 8px;
+  background-color: dark grey; 
+  color: white; 
+  border: 2px solid #f44336;
+}
+
+a.six:hover, a.six:active {
+  background-color: #f44336;
+  color: white;
+}
+</style>
+</head>
+<body>

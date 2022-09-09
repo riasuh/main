@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# Beat Saber Austria Documentations  
+# Beat Saber Austria Docs  
 !!! warning "This Page is still a Work in Progress"
     *some sections are not fully done*
 
