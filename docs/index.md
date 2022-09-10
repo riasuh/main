@@ -10,29 +10,33 @@ hide:
 
 Hi, im ria! I make custom Maps and various Projects for Beat Saber.  
 
-<a href="https://discord.com/invite/6PRt4Ph" class="one" target="_blank">riasuh#2165&nbsp; :fontawesome-brands-discord:</a>
+<a href="https://discord.com/invite/6PRt4Ph" class="one" target="_blank">riasuh#2165&nbsp; :fontawesome-brands-discord:{ .rotate-center }</a>
 <a href="https://twitter.com/riasuh_" class="two" target="_blank">@riasuh_&nbsp; :fontawesome-brands-twitter:</a>
 <a href="https://github.com/riasuh" class="three" target="_blank">riasuh&nbsp; :fontawesome-brands-github:</a>
 <a href="https://www.twitch.tv/riasuh" class="four" target="_blank">riasuh&nbsp; :fontawesome-brands-twitch:</a>
 
 
-<a href="https://beatsaver.com/profile/4284474" class="six" target="_blank">My Maps on BeatSaver&nbsp; :map:</a>
+<a href="https://beatsaver.com/profile/4284474" class="six" target="_blank">My Maps on BeatSaver&nbsp; :funny-beat-saviour:{ .heart }</a>
 !!! danger "Some Stats & current Roles"
     [BeatSaber Player (peaked #29 global)](https://scoresaber.com/u/1984389848326752)  
     [ScoreSaber QAT](https://scoresaber.com/team)  
     Beat Saber Mapper of multiple ranked and *totally famous map such as Super Nuko World*  
     Beat Saber Austria Admin   
     Tournament Host & Coordinator  
-    (retired) Twitch Streamer  
+    (retired) Twitch Streamer   
 
-<form>
-      <input type="button" onclick="window.location.href = 'https://de.w3docs.com';" value="BUTTON"/>
-    </form>
+
+<span class="twemoji">
+  {% include ".icons/fontawesome/brands/twitter.svg" %} 
+
+
+</span>
+
 
 :books: [Beat Saber Austria Documentations](./bsat_docs)
 ---
 
-:map: [My Maps](./ria_maps)
+:funny-beat-saviour: [My Maps](./ria_maps)
 ---
 
 :person_juggling_tone1: [My Projects](./ria_projects)
@@ -173,22 +177,3 @@ a.six:hover, a.six:active {
   color: white;
 }
 </style>
- <style>
-      .button {
-      background-color: #FF4500;
-      border: none;
-      color: white;
-      padding: 20px 34px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 20px;
-      margin: 4px 2px;
-      cursor: pointer;
-      }
-    </style>
-  </head>
-  <body>
-    <a href="https://de.w3docs.com/" class="button">Hier klicken</a>
-  </body>
-</html>
