@@ -8,15 +8,15 @@ hide:
 
 ---
 
-**Hi, im ria! I make custom Maps and various Projects for Beat Saber.**   
+Hi, im ria! I make custom Maps and various Projects for Beat Saber.  
 
-<a href="https://discord.com/invite/6PRt4Ph" class="one" target="sewey">riasuh#2165&nbsp; :fontawesome-brands-discord:</a>
-<a href="https://twitter.com/riasuh_" class="two" target="sewey">@riasuh_&nbsp; :fontawesome-brands-twitter:</a>
-<a href="https://github.com/riasuh" class="three" target="sewey">riasuh&nbsp; :fontawesome-brands-github:</a>
-<a href="https://www.twitch.tv/riasuh" class="four" target="sewey">riasuh&nbsp; :fontawesome-brands-twitch:</a>
+<a href="https://discord.com/invite/6PRt4Ph" class="one" target="_blank">riasuh#2165&nbsp; :fontawesome-brands-discord:</a>
+<a href="https://twitter.com/riasuh_" class="two" target="_blank">@riasuh_&nbsp; :fontawesome-brands-twitter:</a>
+<a href="https://github.com/riasuh" class="three" target="_blank">riasuh&nbsp; :fontawesome-brands-github:</a>
+<a href="https://www.twitch.tv/riasuh" class="four" target="_blank">riasuh&nbsp; :fontawesome-brands-twitch:</a>
 
 
-<a href="https://beatsaver.com/profile/4284474" class="six" target="sewey">My Maps on BeatSaver&nbsp; :map:</a>
+<a href="https://beatsaver.com/profile/4284474" class="six" target="_blank">My Maps on BeatSaver&nbsp; :map:</a>
 !!! danger "Some Stats & current Roles"
     [BeatSaber Player (peaked #29 global)](https://scoresaber.com/u/1984389848326752)  
     [ScoreSaber QAT](https://scoresaber.com/team)  
@@ -25,7 +25,9 @@ hide:
     Tournament Host & Coordinator  
     (retired) Twitch Streamer  
 
-
+<form>
+      <input type="button" onclick="window.location.href = 'https://de.w3docs.com';" value="BUTTON"/>
+    </form>
 
 :books: [Beat Saber Austria Documentations](./bsat_docs)
 ---
@@ -48,23 +50,24 @@ hide:
     [Submit a PR and make changes here](https://github.com/riasuh/docs2/edit/main/docs) or **contact me on Discord** `riasuh#2165`
 
 ---
-
 <style>
 a.one:link, a.one:visited {
 text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-  padding: 6px 50px;
+  padding: 6px 40px;
   border-radius: 8px;
   background-color: dark grey; 
   color: white; 
   border: 2px solid #5865F2;
+  display: inline-block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 a.one:hover, a.one:active {
   background-color: #282e75;
   color: white;
@@ -72,29 +75,27 @@ a.one:hover, a.one:active {
 a.two:link, a.two:visited {
 text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
   transition-duration: 1s;
   cursor: pointer;
-  padding: 6px 55px;
+  padding: 6px 50px;
   border-radius: 8px;
   background-color: dark grey; 
   color: white; 
   border: 2px solid #008CBA;
+  display: inline-block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 a.two:hover, a.two:active {
   background-color: #008CBA;
   color: white;
 }
-
 a.three:link, a.three:visited {
 text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
   padding: 6px 55px;
@@ -102,8 +103,11 @@ text-align: center;
   background-color: dark grey; 
   color: white; 
   border: 2px solid #e7e7e7;
+  display: inline-block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 a.three:hover, a.three:active {
   background-color: #e7e7e7;
   color: grey;
@@ -111,9 +115,7 @@ a.three:hover, a.three:active {
 a.four:link, a.four:visited {
 text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
   padding: 6px 55px;
@@ -121,8 +123,11 @@ text-align: center;
   background-color: dark grey; 
   color: white; 
   border: 2px solid #9146FF;
+  display: inline-block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 a.four:hover, a.four:active {
   background-color: #6441a5;
   color: white;
@@ -130,9 +135,7 @@ a.four:hover, a.four:active {
 a.five:link, a.five:visited {
 text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
   padding: 6px 50px;
@@ -140,8 +143,11 @@ text-align: center;
   background-color: dark grey; 
   color: white; 
   border: 2px solid #f44336;
+  display: block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 a.five:hover, a.five:active {
   background-color: #f44336;
   color: white;
@@ -149,22 +155,40 @@ a.five:hover, a.five:active {
 a.six:link, a.six:visited {
 text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-  padding: 6px 314px;
+  padding: 6px 15px;
   border-radius: 8px;
   background-color: dark grey; 
   color: white; 
   border: 2px solid #f44336;
+  display: block;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 a.six:hover, a.six:active {
   background-color: #f44336;
   color: white;
 }
 </style>
-</head>
-<body>
+ <style>
+      .button {
+      background-color: #FF4500;
+      border: none;
+      color: white;
+      padding: 20px 34px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 20px;
+      margin: 4px 2px;
+      cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="https://de.w3docs.com/" class="button">Hier klicken</a>
+  </body>
+</html>
